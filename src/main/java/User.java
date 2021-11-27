@@ -5,5 +5,7 @@ public class User {
     public static void main(String[] args) {
         System.out.println("在线问答系统");
         System.out.println("hello wrold");
+        System.out.println("hello wrold1");
+        System.out.println("hello wrold2");
     }
 }
